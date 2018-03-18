@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_164138_nowstock.NowStockUtil</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>NowStockUtil</name>
+        <script><![CDATA[var NowStockUtil = Class.create();
+NowStockUtil.prototype = {
+	companyTbl: "x_164138_nowstock_companies", 
+	exchangeTbl: "x_164138_nowstock_exchanges", 
+	industryTbl: "x_164138_nowstock_industries", 
+	sectorTbl: "x_164138_nowstock_sectors", 
+	saleHistTbl: "x_164138_nowstock_last_sale", 
+	marketCapHistTbl: "x_164138_nowstock_market_capitalizations",
+	sectorIndustryTbl: "x_164138_nowstock_m2m_industries_sectors", 
+	
+	initialize: function() {
+
+	},
+	
+	createHistory: function(type, oldVal, co){ 
+		var tbl = (type == "last_sale") ? this.saleHistTbl : this.marketCapHistTbl, 
+			dt = new GlideDate(), 
+			gr = new GlideRecord(tbl); 
+		gr.initialize(); 
+		gr.date = dt; 
+		gr.value = oldVal; 
+		gr.company = co; 
+		gr.insert(); 
+	},
+	createSectorIndustryM2M : function(src){ 
+		var m2m = new GlideRecord(this.sectorIndustryTbl), 
+			industry = "", sector = ""; 
+		if(src.u_sector && src.u_industry){ 
+			industry = this._findIndustryByName(src.u_industry); 
+			sector = this._findSectorByName(src.u_sector); 
+			if(industry && sector){ 
+				m2m.addQuery('sector', sector); 
+				m2m.addQuery('industry', industry); 
+				m2m.query(); 
+				if(!m2m.next()){ 
+					m2m.initialize(); 
+					m2m.sector = sector; 
+					m2m.industry = industry; 
+					m2m.insert(); 
+				} 
+			} 
+		} 
+	},
+	
+	_findIndustryByName: function(name){ 
+		var industries = new GlideRecord(this.industryTbl); 
+		industries.addQuery('name', name); 
+		industries.setLimit(1); 
+		industries.query(); 
+		if(industries.next()){ 
+			return String(industries.sys_id); 
+		} 
+		return false; 
+	},
+	 
+	_findSectorByName: function(name){ 
+		var sectors = new GlideRecord(this.sectorTbl); 
+		sectors.addQuery('name', name); 
+		sectors.setLimit(1); 
+		sectors.query(); 
+		if(sectors.next()){ 
+			return String(sectors.sys_id); 
+		} 
+		return false; 
+	},
+	type: 'NowStockUtil'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-18 19:08:43</sys_created_on>
+        <sys_id>fd376babdbf81300daa973ffbf96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NowStockUtil</sys_name>
+        <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+        <sys_update_name>sys_script_include_fd376babdbf81300daa973ffbf96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-18 19:08:43</sys_updated_on>
+    </sys_script_include>
+</record_update>
