@@ -12,12 +12,15 @@
         <element label="Start Year" max_length="40" name="start_year" type="integer"/>
         <element display="true" label="Ticker" max_length="50" name="ticker" type="string"/>
         <index name="index">
-            <element name="exchange"/>
+            <element name="ticker"/>
         </index>
         <index name="index2">
-            <element name="industry"/>
+            <element name="exchange"/>
         </index>
         <index name="index3">
+            <element name="industry"/>
+        </index>
+        <index name="index4">
             <element name="sector"/>
         </index>
     </element>
