@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="date" label="Date" language="en" table="x_164138_nowstock_last_sale">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <help/>
+            <hint/>
+            <label>Date</label>
+            <language>en</language>
+            <name>x_164138_nowstock_last_sale</name>
+            <plural>Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-18 18:55:58</sys_created_on>
+            <sys_id>bf062f6bdbf81300daa973ffbf96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date</sys_name>
+            <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+            <sys_update_name>sys_documentation_x_164138_nowstock_last_sale_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-18 18:55:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

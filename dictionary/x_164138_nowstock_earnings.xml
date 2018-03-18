@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Earnings" max_length="40" name="x_164138_nowstock_earnings" type="collection">
+        <element label="Assets" max_length="20" name="assets" type="decimal"/>
+        <element label="Asset Turnover" max_length="30" name="asset_turnover" type="decimal"/>
+        <element label="Book Value of Equity per Share" max_length="30" name="book_value_of_equity_per_share" type="decimal"/>
+        <element label="Capital Expenditures" max_length="30" name="capital_expenditures" type="decimal"/>
+        <element label="Cash at End of Period" max_length="30" name="cash_at_end_of_period" type="decimal"/>
+        <element label="Cash Change During Period" max_length="30" name="cash_change_during_period" type="decimal"/>
+        <element label="Cash from Financing Activities" max_length="30" name="cash_from_financing_activities" type="decimal"/>
+        <element label="Cash from Investing Activities" max_length="30" name="cash_from_investing_activities" type="decimal"/>
+        <element label="Cash from Operating Activities" max_length="30" name="cash_from_operating_activities" type="decimal"/>
+        <element label="Company" max_length="32" name="company" reference="x_164138_nowstock_companies" type="reference"/>
+        <element label="Cumulative Dividends per Share" max_length="30" name="cumulative_dividends_per_share" type="decimal"/>
+        <element label="Current Assets" max_length="30" name="current_assets" type="decimal"/>
+        <element label="Current Liabilities" max_length="30" name="current_liabilities" type="decimal"/>
+        <element label="Current Ratio" max_length="30" name="current_ratio" type="decimal"/>
+        <element label="Dividend Payout Ratio" max_length="30" name="dividend_payout_ratio" type="decimal"/>
+        <element label="Dividend per Share" max_length="30" name="dividend_per_share" type="decimal"/>
+        <element label="Earnings Available for Common Stockholders" max_length="30" name="earnings_available_for_common_stockholders" type="decimal"/>
+        <element label="EPS Basic" max_length="30" name="eps_basic" type="decimal"/>
+        <element label="EPS Diluted" max_length="30" name="eps_diluted" type="decimal"/>
+        <element label="Equity to Assets Ratio" max_length="30" name="equity_to_assets_ratio" type="decimal"/>
+        <element label="Free Cash Flow Per Share" max_length="30" name="free_cash_flow_per_share" type="decimal"/>
+        <element label="Goodwill &amp; Intangibles" max_length="30" name="goodwill_intangibles" type="decimal"/>
+        <element label="Liabilities" max_length="30" name="liabilities" type="decimal"/>
+        <element label="Long-term Debt" max_length="30" name="long_term_debt" type="decimal"/>
+        <element label="Long-term Debt to Equity Ratio" max_length="30" name="long_term_debt_to_equity_ratio" type="decimal"/>
+        <element label="Net Income" max_length="30" name="net_income" type="decimal"/>
+        <element label="Net Margin" max_length="30" name="net_margin" type="decimal"/>
+        <element label="Non-controlling Interest" max_length="30" name="non_controlling_interest" type="decimal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Preferred Equity" max_length="30" name="preferred_equity" type="decimal"/>
+        <element label="Price" max_length="30" name="price" type="decimal"/>
+        <element label="Price High" max_length="30" name="price_high" type="decimal"/>
+        <element label="Price Low" max_length="30" name="price_low" type="decimal"/>
+        <element label="P/B Ratio" max_length="30" name="p_b_ratio" type="decimal"/>
+        <element label="P/E Ratio" max_length="30" name="p_e_ratio" type="decimal"/>
+        <element label="Quarter End" max_length="40" name="quarter_end" type="glide_date"/>
+        <element label="Revenue" max_length="30" name="revenue" type="decimal"/>
+        <element label="ROA" max_length="30" name="roa" type="decimal"/>
+        <element label="ROE" max_length="30" name="roe" type="decimal"/>
+        <element label="Shareholders Equity" max_length="30" name="shareholders_equity" type="decimal"/>
+        <element label="Shares" max_length="30" name="shares" type="decimal"/>
+        <element label="Shares Split Adjusted" max_length="30" name="shares_split_adjusted" type="decimal"/>
+        <element label="Split Factor" max_length="40" name="split_factor" type="integer"/>
+        <index name="index">
+            <element name="company"/>
+        </index>
     </element>
 </database>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Last Sale" max_length="40" name="x_164138_nowstock_last_sale" type="collection">
+        <element label="Company" max_length="32" name="company" reference="x_164138_nowstock_companies" type="reference"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="20" label="Value" max_length="20" name="value" type="decimal"/>
+        <index name="index">
+            <element name="company"/>
+        </index>
     </element>
 </database>
