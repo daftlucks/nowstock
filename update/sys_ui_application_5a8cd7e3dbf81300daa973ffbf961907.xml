@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>NowStock</name>
+        <order/>
+        <roles>nowstock_manager</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-18 18:14:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a8cd7e3dbf81300daa973ffbf961907</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NowStock</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+        <sys_update_name>sys_ui_application_5a8cd7e3dbf81300daa973ffbf961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-18 18:15:05</sys_updated_on>
+    </sys_ui_application>
+</record_update>

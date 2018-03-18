@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Industries to Sectors" max_length="40" name="x_164138_nowstock_m2m_industries_sectors" type="collection">
+        <element label="Industries" max_length="32" name="industries" reference="x_164138_nowstock_industries" type="reference"/>
+        <element label="Sectors" max_length="32" name="sectors" reference="x_164138_nowstock_sectors" type="reference"/>
+        <index name="index">
+            <element name="sectors"/>
+        </index>
+        <index name="index2">
+            <element name="industries"/>
+        </index>
+    </element>
+</database>

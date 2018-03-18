@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_164138_nowstock_sectors</from_table>
+        <m2m_from_field>sectors</m2m_from_field>
+        <m2m_from_label>Industries</m2m_from_label>
+        <m2m_table>x_164138_nowstock_m2m_industries_sectors</m2m_table>
+        <m2m_to_field>industries</m2m_to_field>
+        <m2m_to_label>Sectors</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-18 18:23:56</sys_created_on>
+        <sys_id>c99e5367dbf81300daa973ffbf96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_164138_nowstock_m2m_industries_sectors</sys_name>
+        <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+        <sys_update_name>sys_m2m_c99e5367dbf81300daa973ffbf96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-18 18:23:56</sys_updated_on>
+        <to_table>x_164138_nowstock_industries</to_table>
+    </sys_m2m>
+</record_update>
