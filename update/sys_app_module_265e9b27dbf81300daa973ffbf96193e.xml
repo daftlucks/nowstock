@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="NowStock">128c97a3dbf81300daa973ffbf961902</application>
         <assessment/>
         <content_page/>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>265e9b27dbf81300daa973ffbf96193e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Exchanges</sys_name>
         <sys_overrides/>
         <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
         <sys_update_name>sys_app_module_265e9b27dbf81300daa973ffbf96193e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-18 18:22:17</sys_updated_on>
+        <sys_updated_on>2018-03-25 18:07:33</sys_updated_on>
         <timeline_page/>
         <title>Exchanges</title>
         <uncancelable>false</uncancelable>

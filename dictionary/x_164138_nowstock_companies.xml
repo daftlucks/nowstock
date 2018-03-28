@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Companies" max_length="40" name="x_164138_nowstock_companies" type="collection">
+    <element audit="true" label="Companies" max_length="40" name="x_164138_nowstock_companies" sizeclass="6778" text_index="true" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Exchange" max_length="32" name="exchange" reference="x_164138_nowstock_exchanges" type="reference"/>
         <element label="Industry" max_length="32" name="industry" reference="x_164138_nowstock_industries" type="reference"/>

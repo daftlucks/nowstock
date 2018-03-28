@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u___doctype_html_" label="&lt;!DOCTYPE html&gt;" language="en" table="x_164138_stock_nasdaq_company">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u___doctype_html_</element>
+            <help/>
+            <hint/>
+            <label>&lt;!DOCTYPE html&gt;</label>
+            <language>en</language>
+            <name>x_164138_stock_nasdaq_company</name>
+            <plural>&lt;!DOCTYPE html&gt;s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-25 17:25:09</sys_created_on>
+            <sys_id>f5649b71db011300daa973ffbf9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>&lt;!DOCTYPE html&gt;</sys_name>
+            <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+            <sys_update_name>sys_documentation_x_164138_stock_nasdaq_company_u___doctype_html__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-25 17:25:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
