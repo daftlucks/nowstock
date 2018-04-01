@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9c4c6bccdb111300daa973ffbf961999" sys_domain="global" table="x_164138_nowstock_earnings" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:55:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>584c6bccdb111300daa973ffbf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">43496b4cdb111300daa973ffbf96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:55:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:55:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c4c6bccdb111300daa973ffbf96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="Income Statement" display_value="Income Statement" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">904c6bccdb111300daa973ffbf96199b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:55:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:56:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c36c2b00db511300daa973ffbf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="Balance Sheet" display_value="Balance Sheet" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">c36ca7ccdb111300daa973ffbf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:56:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:57:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>279c6b00db511300daa973ffbf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="Calculated" display_value="Calculated" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e39c6b00db511300daa973ffbf9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:57:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:57:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92bc2b00db511300daa973ffbf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="Cash Flow" display_value="Cash Flow" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9ebc2b00db511300daa973ffbf96199f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:57:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52ec6f00db511300daa973ffbf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="System" display_value="System" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">92ecab00db511300daa973ffbf9619f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:58:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c1def00db511300daa973ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_164138_nowstock_earnings" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">9c4c6bccdb111300daa973ffbf961999</sys_ui_form>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:59:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_164138_nowstock_earnings</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:55:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c4c6bccdb111300daa973ffbf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_164138_nowstock_earnings</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9c4c6bccdb111300daa973ffbf961999</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:55:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

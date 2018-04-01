@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Shares" section_id="e01def00db511300daa973ffbf961958" sys_domain="global" table="x_164138_nowstock_earnings" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_turnover</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>02bd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_value_of_equity_per_share</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>82bd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capital_expenditures</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>06bd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cumulative_dividends_per_share</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>86bd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_ratio</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>0abd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dividend_payout_ratio</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>8abd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>earnings_available_for_common_stockholders</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>0ebd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>equity_to_assets_ratio</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>8ebd6740db511300daa973ffbf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>free_cash_flow_per_share</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>02bd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>goodwill_intangibles</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>82bd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>long_term_debt</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>06bd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>long_term_debt_to_equity_ratio</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>86bd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>net_margin</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>0abd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>non_controlling_interest</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>8abd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_equity</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>0ebd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roa</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>8ebd6740db511300daa973ffbf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roe</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>02bd6740db511300daa973ffbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shareholders_equity</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>82bd6740db511300daa973ffbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shares</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>06bd6740db511300daa973ffbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>split_factor</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>86bd6740db511300daa973ffbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shares_split_adjusted</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 19:02:06</sys_created_on>
+            <sys_id>0abd6740db511300daa973ffbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Shares" display_value="Shares" name="x_164138_nowstock_earnings" sys_domain="global" view="Default view">e01def00db511300daa973ffbf961958</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 19:02:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Shares</caption>
+            <header>false</header>
+            <name>x_164138_nowstock_earnings</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-01 18:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e01def00db511300daa973ffbf961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Shares</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
+            <sys_update_name>sys_ui_section_e01def00db511300daa973ffbf961958</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-01 18:59:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
