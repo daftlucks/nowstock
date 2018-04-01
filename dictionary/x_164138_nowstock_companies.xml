@@ -4,6 +4,7 @@
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Exchange" max_length="32" name="exchange" reference="x_164138_nowstock_exchanges" type="reference"/>
         <element label="Industry" max_length="32" name="industry" reference="x_164138_nowstock_industries" type="reference"/>
+        <element default="False" label="Is StockPup?" max_length="40" name="is_stockpup" type="boolean"/>
         <element label="Last Sale" max_length="20" name="last_sale" type="decimal"/>
         <element label="Market Capitalization" max_length="20" name="market_capitalization" type="decimal"/>
         <element label="Name" max_length="250" name="name" type="string"/>
