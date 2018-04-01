@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="StockPup Company Financials" max_length="40" name="x_164138_nowstock_stockpup" type="collection">
+        <element attributes="import_attribute_name=Assets,edge_encryption_enabled=true" label="Assets" max_length="40" name="u_assets" type="string"/>
+        <element attributes="import_attribute_name=Asset turnover,edge_encryption_enabled=true" label="Asset turnover" max_length="40" name="u_asset_turnover" type="string"/>
+        <element attributes="import_attribute_name=Book value of equity per share,edge_encryption_enabled=true" label="Book value of equity per share" max_length="40" name="u_book_value_o_uity_per_share" type="string"/>
+        <element attributes="import_attribute_name=Capital expenditures,edge_encryption_enabled=true" label="Capital expenditures" max_length="40" name="u_capital_expenditures" type="string"/>
+        <element attributes="import_attribute_name=Cash at end of period,edge_encryption_enabled=true" label="Cash at end of period" max_length="40" name="u_cash_at_end_of_period" type="string"/>
+        <element attributes="import_attribute_name=Cash change during period,edge_encryption_enabled=true" label="Cash change during period" max_length="40" name="u_cash_change_during_period" type="string"/>
+        <element attributes="import_attribute_name=Cash from financing activities,edge_encryption_enabled=true" label="Cash from financing activities" max_length="40" name="u_cash_from_fi_ing_activities" type="string"/>
+        <element attributes="import_attribute_name=Cash from investing activities,edge_encryption_enabled=true" label="Cash from investing activities" max_length="40" name="u_cash_from_in_ing_activities" type="string"/>
+        <element attributes="import_attribute_name=Cash from operating activities,edge_encryption_enabled=true" label="Cash from operating activities" max_length="40" name="u_cash_from_op_ing_activities" type="string"/>
+        <element attributes="import_attribute_name=Cumulative dividends per share,edge_encryption_enabled=true" label="Cumulative dividends per share" max_length="40" name="u_cumulative_d_ends_per_share" type="string"/>
+        <element attributes="import_attribute_name=Current Assets,edge_encryption_enabled=true" label="Current Assets" max_length="40" name="u_current_assets" type="string"/>
+        <element attributes="import_attribute_name=Current Liabilities,edge_encryption_enabled=true" label="Current Liabilities" max_length="40" name="u_current_liabilities" type="string"/>
+        <element attributes="import_attribute_name=Current ratio,edge_encryption_enabled=true" label="Current ratio" max_length="40" name="u_current_ratio" type="string"/>
+        <element attributes="import_attribute_name=Dividend payout ratio,edge_encryption_enabled=true" label="Dividend payout ratio" max_length="40" name="u_dividend_payout_ratio" type="string"/>
+        <element attributes="import_attribute_name=Dividend per share,edge_encryption_enabled=true" label="Dividend per share" max_length="40" name="u_dividend_per_share" type="string"/>
+        <element attributes="import_attribute_name=Earnings,edge_encryption_enabled=true" label="Earnings" max_length="40" name="u_earnings" type="string"/>
+        <element attributes="import_attribute_name=Earnings available for common stockholders,edge_encryption_enabled=true" label="Earnings available for common stockholders" max_length="40" name="u_earnings_ava_n_stockholders" type="string"/>
+        <element attributes="import_attribute_name=EPS basic,edge_encryption_enabled=true" label="EPS basic" max_length="40" name="u_eps_basic" type="string"/>
+        <element attributes="import_attribute_name=EPS diluted,edge_encryption_enabled=true" label="EPS diluted" max_length="40" name="u_eps_diluted" type="string"/>
+        <element attributes="import_attribute_name=Equity to assets ratio,edge_encryption_enabled=true" label="Equity to assets ratio" max_length="40" name="u_equity_to_assets_ratio" type="string"/>
+        <element attributes="import_attribute_name=Free cash flow per share,edge_encryption_enabled=true" label="Free cash flow per share" max_length="40" name="u_free_cash_flow_per_share" type="string"/>
+        <element attributes="import_attribute_name=Goodwill &amp; intangibles,edge_encryption_enabled=true" label="Goodwill &amp; intangibles" max_length="40" name="u_goodwill___intangibles" type="string"/>
+        <element attributes="import_attribute_name=Liabilities,edge_encryption_enabled=true" label="Liabilities" max_length="40" name="u_liabilities" type="string"/>
+        <element attributes="import_attribute_name=Long-term debt,edge_encryption_enabled=true" label="Long-term debt" max_length="40" name="u_long_term_debt" type="string"/>
+        <element attributes="import_attribute_name=Long-term debt to equity ratio,edge_encryption_enabled=true" label="Long-term debt to equity ratio" max_length="40" name="u_long_term_de_o_equity_ratio" type="string"/>
+        <element attributes="import_attribute_name=Net margin,edge_encryption_enabled=true" label="Net margin" max_length="40" name="u_net_margin" type="string"/>
+        <element attributes="import_attribute_name=Non-controlling interest,edge_encryption_enabled=true" label="Non-controlling interest" max_length="40" name="u_non_controlling_interest" type="string"/>
+        <element attributes="import_attribute_name=Preferred equity,edge_encryption_enabled=true" label="Preferred equity" max_length="40" name="u_preferred_equity" type="string"/>
+        <element attributes="import_attribute_name=Price,edge_encryption_enabled=true" label="Price" max_length="40" name="u_price" type="string"/>
+        <element attributes="import_attribute_name=Price high,edge_encryption_enabled=true" label="Price high" max_length="40" name="u_price_high" type="string"/>
+        <element attributes="import_attribute_name=Price low,edge_encryption_enabled=true" label="Price low" max_length="40" name="u_price_low" type="string"/>
+        <element attributes="import_attribute_name=P/B ratio,edge_encryption_enabled=true" label="P/B ratio" max_length="40" name="u_p_b_ratio" type="string"/>
+        <element attributes="import_attribute_name=P/E ratio,edge_encryption_enabled=true" label="P/E ratio" max_length="40" name="u_p_e_ratio" type="string"/>
+        <element attributes="import_attribute_name=Quarter end,edge_encryption_enabled=true" label="Quarter end" max_length="40" name="u_quarter_end" type="string"/>
+        <element attributes="import_attribute_name=Revenue,edge_encryption_enabled=true" label="Revenue" max_length="40" name="u_revenue" type="string"/>
+        <element attributes="import_attribute_name=ROA,edge_encryption_enabled=true" label="ROA" max_length="40" name="u_roa" type="string"/>
+        <element attributes="import_attribute_name=ROE,edge_encryption_enabled=true" label="ROE" max_length="40" name="u_roe" type="string"/>
+        <element attributes="import_attribute_name=Shareholders equity,edge_encryption_enabled=true" label="Shareholders equity" max_length="40" name="u_shareholders_equity" type="string"/>
+        <element attributes="import_attribute_name=Shares,edge_encryption_enabled=true" label="Shares" max_length="40" name="u_shares" type="string"/>
+        <element attributes="import_attribute_name=Shares split adjusted,edge_encryption_enabled=true" label="Shares split adjusted" max_length="40" name="u_shares_split_adjusted" type="string"/>
+        <element attributes="import_attribute_name=Split factor,edge_encryption_enabled=true" label="Split factor" max_length="40" name="u_split_factor" type="string"/>
+    </element>
+</database>
