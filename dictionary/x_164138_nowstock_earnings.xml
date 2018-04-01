@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Earnings" max_length="40" name="x_164138_nowstock_earnings" type="collection">
+    <element audit="true" label="Earnings" max_length="40" name="x_164138_nowstock_earnings" type="collection">
         <element label="Assets" max_length="20" name="assets" type="decimal"/>
         <element label="Asset Turnover" max_length="30" name="asset_turnover" type="decimal"/>
         <element label="Book Value of Equity per Share" max_length="30" name="book_value_of_equity_per_share" type="decimal"/>
