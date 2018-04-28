@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>0e4eeb23db3c1300daa973ffbf961949</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f69b87fcdb711300daa973ffbf9619d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <text/>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
@@ -16,13 +16,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>ce4eeb23db3c1300daa973ffbf961949</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f29b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -30,13 +30,13 @@
             <element>ticker</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>424eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>769b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>market_capitalization</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>c24eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f69b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>last_sale</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>464eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7a9b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>c64eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fa9b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -86,13 +86,13 @@
             <element>active</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>4a4eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7e9b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -100,13 +100,13 @@
             <element>start_year</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>ca4eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fe9b87fcdb711300daa973ffbf9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -114,13 +114,13 @@
             <element>exchange</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>4e4eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>729b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -128,13 +128,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>ce4eeb23db3c1300daa973ffbf96194a</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f29b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -142,27 +142,27 @@
             <element>name</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>424eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>769b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0e4eeb23db3c1300daa973ffbf961949</element>
+            <element>f69b87fcdb711300daa973ffbf9619d7</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>c24eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f69b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -170,13 +170,13 @@
             <element>.begin_split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>464eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7a9b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -184,13 +184,13 @@
             <element>sector</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>c64eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fa9b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -198,13 +198,13 @@
             <element>.split</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>4a4eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7e9b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -212,13 +212,13 @@
             <element>industry</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>ca4eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fe9b87fcdb711300daa973ffbf9619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -226,13 +226,13 @@
             <element>.end_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-18 19:31:53</sys_created_on>
-            <sys_id>4e4eeb23db3c1300daa973ffbf96194b</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>729b87fcdb711300daa973ffbf9619da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-18 19:31:53</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -240,13 +240,13 @@
             <element>is_stockpup</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-01 20:36:55</sys_created_on>
-            <sys_id>1363849cdb511300daa973ffbf961942</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f29b87fcdb711300daa973ffbf9619da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-01 20:36:55</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -254,16 +254,232 @@
             <element>stockpup_csv_url</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-14 19:19:01</sys_created_on>
-            <sys_id>244ee29cdb211300daa973ffbf961918</sys_id>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>769b87fcdb711300daa973ffbf9619da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-14 19:19:01</sys_updated_on>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f69b87fcdb711300daa973ffbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c176c334db711300daa973ffbf96192d</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7a9b87fcdb711300daa973ffbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>2e790b3cdb711300daa973ffbf9619df</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fa9b87fcdb711300daa973ffbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>399a0fbcdb711300daa973ffbf96198d</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>7e9b87fcdb711300daa973ffbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>fe9b87fcdb711300daa973ffbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>afd74738db711300daa973ffbf961993</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>729b87fcdb711300daa973ffbf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>62790b3cdb711300daa973ffbf9619e0</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f29b87fcdb711300daa973ffbf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>329b87fcdb711300daa973ffbf9619d8</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>769b87fcdb711300daa973ffbf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>f69b87fcdb711300daa973ffbf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:59:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label>Revenue</label>
+            <report display_value="Revenue Analysis">9fd60f34db711300daa973ffbf9619d4</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:37:23</sys_created_on>
+            <sys_id>c176c334db711300daa973ffbf96192d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:40:25</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label>Dividends</label>
+            <report display_value="Dividend Analysis">46e88bb8db711300daa973ffbf961993</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:50:35</sys_created_on>
+            <sys_id>2e790b3cdb711300daa973ffbf9619df</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:51:08</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label>Price</label>
+            <report display_value="Price Analysis">5d8acf7cdb711300daa973ffbf96193f</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:55:27</sys_created_on>
+            <sys_id>399a0fbcdb711300daa973ffbf96198d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:55:59</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label>EPS</label>
+            <report display_value="EPS Overall">c9470b74db711300daa973ffbf9619b9</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:43:33</sys_created_on>
+            <sys_id>afd74738db711300daa973ffbf961993</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:44:00</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label/>
+            <report display_value="Net Income Analysis">5c298bb8db711300daa973ffbf961945</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:50:35</sys_created_on>
+            <sys_id>62790b3cdb711300daa973ffbf9619e0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 20:51:37</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field>ticker</form_field>
+            <height>300</height>
+            <label>Shares</label>
+            <report display_value="Shares Analysis">4649cbf8db711300daa973ffbf96191e</report>
+            <report_field>company.ticker</report_field>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_164138_nowstock_companies" sys_domain="global" view="Default view">c49d6fefdbf81300daa973ffbf961965</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-28 20:59:53</sys_created_on>
+            <sys_id>329b87fcdb711300daa973ffbf9619d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-28 21:00:30</sys_updated_on>
+        </sys_ui_chart>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

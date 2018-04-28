@@ -32,9 +32,9 @@ NowStockUtil.prototype = {
 		if(dsGR.get('sys_id', this.stockPupDS)){
 			coGR.initialize();
 			coGR.addQuery('is_stockpup', true);
-			coGR.setLimit(1);
+			//coGR.setLimit(20);
 			coGR.query();
-			if(coGR.next()){
+			while(coGR.next()){
 				gs.info(String(coGR.sys_id));
 				dsGR.name = String(coGR.sys_id);
 				dsGR.file_path = "/data" + String(coGR.stockpup_csv_url) + ".csv";
@@ -226,13 +226,13 @@ NowStockUtil.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-18 19:08:43</sys_created_on>
         <sys_id>fd376babdbf81300daa973ffbf96192a</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>84</sys_mod_count>
         <sys_name>NowStockUtil</sys_name>
         <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
         <sys_update_name>sys_script_include_fd376babdbf81300daa973ffbf96192a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-14 20:36:04</sys_updated_on>
+        <sys_updated_on>2018-04-28 20:32:07</sys_updated_on>
     </sys_script_include>
 </record_update>
