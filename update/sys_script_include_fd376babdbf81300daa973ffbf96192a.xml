@@ -17,9 +17,92 @@ NowStockUtil.prototype = {
 	marketCapHistTbl: "x_164138_nowstock_market_capitalizations",
 	sectorIndustryTbl: "x_164138_nowstock_m2m_industries_sectors",
 	earningsTbl: "x_164138_nowstock_earnings",
-
+	stockPupDS: '87082658db211300daa973ffbf961976',
+	
 	initialize: function() {
 
+	},
+
+	createStockPupDS: function(){
+		var dsGR = new GlideRecord('sys_data_source'),
+			coGR = new GlideRecord(this.companyTbl),
+			dsLoader = new global.DataSourceLoader(),
+			ds;
+		gs.info('starting');
+		if(dsGR.get('sys_id', this.stockPupDS)){
+			coGR.initialize();
+			coGR.addQuery('is_stockpup', true);
+			coGR.setLimit(1);
+			coGR.query();
+			if(coGR.next()){
+				gs.info(String(coGR.sys_id));
+				dsGR.name = String(coGR.sys_id);
+				dsGR.file_path = "/data" + String(coGR.stockpup_csv_url) + ".csv";
+				dsGR.update();
+				gs.info('updated');
+				dsLoader._load(String(coGR.sys_id), 'StockPup Transform', false);
+				gs.info('loading');
+			}
+		}
+	},
+	
+	callStockPupData: function(){
+		var requestBody,
+			responseBody,
+			status,
+			sm,
+			response,
+			htmlArr,
+			i,
+			item,
+			ticker,
+			csvURL,
+			coGR = new GlideRecord(this.companyTbl);
+		coGR.initialize();
+		coGR.addQuery('is_stockpup', true);
+		coGR.query();
+		coGR.is_stockpup = false;
+		coGR.stockpup_csv_url = "";
+		coGR.updateMultiple();
+		try {
+			sm = new sn_ws.RESTMessageV2('x_164138_nowstock.StockPup Retrieve Data', 'Default GET');
+			response = sm.execute();
+			responseBody = response.haveError() ? response.getErrorMessage() : response.getBody();
+			status = response.getStatusCode();
+		} catch(ex) {
+			responseBody = ex.getMessage();
+			status = '500';
+			gs.info('responseBody Error:' + responseBody);
+		} finally {
+			requestBody = sm ? sm.getRequestBody(): '';
+		}
+		if(responseBody != ''){
+			htmlArr = responseBody.split('Download</h4>')[1];
+			htmlArr  = htmlArr.split('<p><b>');
+			for (i = 0; i < htmlArr.length; i += 1){
+				item = String(htmlArr[i]);
+				if(item.indexOf("</b>") != -1 && item.indexOf("/data") != -1 && item.indexOf(".csv") != -1){
+					ticker = String(item.split("</b>")[0]).trim();
+					csvURL = String(item.split('/data')[2]).split(".csv")[0].trim();
+					coGR.initialize();
+					coGR.addQuery('ticker', ticker);
+					coGR.query();
+					if(coGR.next()){
+						if(coGR.is_stockpup == false){
+							coGR.is_stockpup = true;
+							coGR.stockpup_csv_url = csvURL;
+							coGR.update();
+						} else {
+							gs.info('duplicate count for: ' + String(coGR.ticker));
+						}
+					} else {
+						gs.info('Error finding: ' + ticker);
+					}
+				} else {
+					gs.info('something went wrong: ' + htmlArr[i]);
+				}
+			} 
+		}
 	},
 
 	callStockPup: function(){
@@ -52,6 +135,7 @@ NowStockUtil.prototype = {
 		if(responseBody != ''){
 			htmlArr = responseBody.split('<li><a href="/companies/');
 			for (i = 0; i < htmlArr.length; i += 1){
+				gs.info(htmlArr[i]);
 				if(htmlArr[i].indexOf("<b>") != -1){
 					item = htmlArr[i].split("<b>")[1];
 					if(htmlArr[i].indexOf("</b>") != -1){
@@ -65,8 +149,8 @@ NowStockUtil.prototype = {
 							} else {
 								gs.info('duplicate count for: ' + String(coGR.ticker));
 							}
-							
-							
+
+
 						} else {
 							gs.info('Error finding: ' + String(item.split("</b>")[0]));
 						}
@@ -77,8 +161,6 @@ NowStockUtil.prototype = {
 				}			
 			}
 		}
-
-
 	},
 
 	deleteAllEarnings: function(){
@@ -144,13 +226,13 @@ NowStockUtil.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-18 19:08:43</sys_created_on>
         <sys_id>fd376babdbf81300daa973ffbf96192a</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>80</sys_mod_count>
         <sys_name>NowStockUtil</sys_name>
         <sys_package display_value="NowStock" source="x_164138_nowstock">9866d3afdbb81300daa973ffbf96191d</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="NowStock">9866d3afdbb81300daa973ffbf96191d</sys_scope>
         <sys_update_name>sys_script_include_fd376babdbf81300daa973ffbf96192a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-01 20:51:45</sys_updated_on>
+        <sys_updated_on>2018-04-14 20:36:04</sys_updated_on>
     </sys_script_include>
 </record_update>
